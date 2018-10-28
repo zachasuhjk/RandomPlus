@@ -9,7 +9,7 @@ namespace RandomPlus
 {
     public class RandomSettings
     {
-        public static readonly int[] RANDOM_REROLL_LIMIT_OPTIONS = new int[] { 50, 200, 500, 1000 };
+        public static readonly int[] RANDOM_REROLL_LIMIT_OPTIONS = new int[] { 50, 200, 500, 1000000 };
 
         private static PawnFilter pawnFilter;
         
